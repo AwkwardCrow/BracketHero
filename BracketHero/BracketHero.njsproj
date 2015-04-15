@@ -35,6 +35,7 @@
     <Compile Include="public\javascripts\Match.js" />
     <Compile Include="public\javascripts\Player.js" />
     <Compile Include="public\javascripts\Pools.js" />
+    <Compile Include="public\javascripts\Randomize.js" />
     <Compile Include="public\javascripts\RoundRobin.js" />
     <Compile Include="public\javascripts\SingleElim.js" />
     <Compile Include="public\javascripts\Swiss.js" />

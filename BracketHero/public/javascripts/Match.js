@@ -6,3 +6,7 @@
 //match doesn't have to have both players to be initialized.
 //if a match finishes a new one can start for both winner and loser and can be fed by "neighboring" match result
 //feels like a good example for a hash map or something similar
+function Matches(players, state){
+    this.players = players;
+    this.state = state;
+}
