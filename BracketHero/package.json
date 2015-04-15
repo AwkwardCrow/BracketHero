@@ -1,0 +1,15 @@
+{
+  "name": "BracketHero",
+  "version": "0.0.0",
+  "description": "BracketHero",
+  "main": "app.js",
+  "author": {
+    "name": "mtgbe_000",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
