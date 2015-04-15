@@ -31,6 +31,14 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="public\javascripts\DoubleElim.js" />
+    <Compile Include="public\javascripts\Match.js" />
+    <Compile Include="public\javascripts\Player.js" />
+    <Compile Include="public\javascripts\Pools.js" />
+    <Compile Include="public\javascripts\RoundRobin.js" />
+    <Compile Include="public\javascripts\SingleElim.js" />
+    <Compile Include="public\javascripts\Swiss.js" />
+    <Compile Include="public\javascripts\Tournament.js" />
     <Compile Include="routes\index.js" />
     <Compile Include="routes\user.js" />
     <Content Include="package.json" />
