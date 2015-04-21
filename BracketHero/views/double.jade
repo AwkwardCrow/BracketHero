@@ -1,0 +1,9 @@
+﻿extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  textarea(id="entrants", rows="10", cols="20")
+    |Enter entrants here.
+  button(class="btn", id="generate", onclick= "").
+    Generate Bracket

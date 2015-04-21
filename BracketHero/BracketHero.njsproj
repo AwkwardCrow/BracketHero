@@ -40,6 +40,9 @@
     <Compile Include="public\javascripts\SingleElim.js" />
     <Compile Include="public\javascripts\Swiss.js" />
     <Compile Include="public\javascripts\Tournament.js" />
+    <Compile Include="routes\pools.js" />
+    <Compile Include="routes\double.js" />
+    <Compile Include="routes\single.js" />
     <Compile Include="routes\index.js" />
     <Compile Include="routes\user.js" />
     <Content Include="package.json" />
@@ -47,6 +50,9 @@
     <Content Include="README.md" />
     <Content Include="views\index.jade" />
     <Content Include="views\layout.jade" />
+    <Content Include="views\double.jade" />
+    <Content Include="views\pools.jade" />
+    <Content Include="views\single.jade" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
